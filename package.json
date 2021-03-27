@@ -1,0 +1,23 @@
+{
+  "name": "gateway",
+  "version": "1.0.0",
+  "description": "gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uciriello/gateway.git"
+  },
+  "author": "Umberto Ciriello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uciriello/gateway/issues"
+  },
+  "homepage": "https://github.com/uciriello/gateway#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "mqtt": "^4.2.6"
+  }
+}
